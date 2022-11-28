@@ -2,12 +2,16 @@
 //TV movie live source collected from the Internet. For communication and study only, commercial use is strictly prohibited!
 
 {
-//jar+壁纸
-"spider":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC","wallpaper":"https://tool.weetai.cn/api",
+//jar引擎
+"spider":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
+
+//背景壁纸
+"wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 //"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzExMS42Ny4xOTYuMTgxL210di96aGliby50eHQ="]}]}],
 
+//资源列表
 "sites": [
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
